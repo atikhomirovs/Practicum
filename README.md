@@ -3,4 +3,4 @@ Data Science projects completed during Data Science bootcamp by Yandex Practicum
 
 |Project |Description	|Libraries|
 | ------ | ------ | ------ |
-| P | D | L |
+|Credit Score Analysis | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas, ntlk |
