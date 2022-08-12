@@ -1,4 +1,4 @@
-#Description of the data
+# Description of the data
 * children: the number of children in the family
 * days_employed: how long the customer has been working
 * dob_years: the customer’s age
@@ -12,8 +12,8 @@
 * total_income: monthly income
 * purpose: reason for taking out a loan
 
-#Goal
+# Goal
 Identify if a customer’s marital status, income level, loan purpose, and a number of children have an impact on whether they will default on a loan.
 
-#Libraries
+# Libraries
 pandas, ntlk
