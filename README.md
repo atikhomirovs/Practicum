@@ -16,4 +16,4 @@
 Identify if a customer’s marital status, income level, loan purpose, and a number of children have an impact on whether they will default on a loan.
 
 # Libraries
-pandas, ntlk
+pandas
