@@ -1,8 +1,18 @@
-# Practicum
-Data Science projects completed during Data Science bootcamp by Yandex Practicum.
+# Description of the data
+* Name
+* Platform
+* Year_of_Release
+* Genre
+* NA_sales (North American sales in USD million)
+* EU_sales (sales in Europe in USD million)
+* JP_sales (sales in Japan in USD million)
+* Other_sales (sales in other countries in USD million)
+* Critic_Score (maximum of 100)
+* User_Score (maximum of 10)
+* Rating (ESRB)
 
-|Project |Description	|Libraries|
-| ------ | ------ | ------ |
-|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas |
-|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years and determine which factors influence the price of a vehicle | pandas, matplotlib |
-|[Project3](https://github.com/atikhomirovs/Practicum/tree/Project3) | Project2 | pandas, ntlk |
+# Goal
+Identify patterns that determine whether a game succeeds or not.
+
+# Libraries
+pandas, scipy, numpy, matplotlib
