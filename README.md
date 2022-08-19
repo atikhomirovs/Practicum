@@ -1,8 +1,31 @@
-# Practicum
-Data Science projects completed during Data Science bootcamp by Yandex Practicum.
+# Description of the data
+## Neighborhoods table: data on city neighborhoods
+* name: name of the neighborhood
+* neighborhood_id: neighborhood code
 
-|Project |Description	|Libraries|
-| ------ | ------ | ------ |
-|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas |
-|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years and determine which factors influence the price of a vehicle | pandas, matplotlib |
-|[Project3](https://github.com/atikhomirovs/Practicum/tree/Project3) | Project2 | pandas, ntlk |
+## Cabs table: data on taxis
+* cab_id: vehicle code
+* vehicle_id: the vehicle's technical ID
+* company_name: the company that owns the vehicle
+
+## Trips table: data on rides
+* trip_id: ride code
+* cab_id: code of the vehicle operating the ride
+* start_ts: date and time of the beginning of the ride (time rounded to the hour)
+* end_ts: date and time of the end of the ride (time rounded to the hour)
+* duration_seconds: ride duration in seconds
+* distance_miles: ride distance in miles
+* pickup_location_id: pickup neighborhood code
+* dropoff_location_id: dropoff neighborhood code
+
+## Weather_records table: data on weather
+* record_id: weather record code
+* ts: record date and time (time rounded to the hour)
+* temperature: temperature when the record was taken
+* description: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
+
+# Goal
+Find patterns in the available information to understand passenger preferences and the impact of external factors on rides.
+
+# Libraries
+pandas, scipy, matplotlib
