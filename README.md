@@ -1,8 +1,24 @@
-# Practicum
-Data Science projects completed during Data Science bootcamp by Yandex Practicum.
+# Description of the data
+### Features
+* RowNumber — data string index
+* CustomerId — unique customer identifier
+* Surname — surname
+* CreditScore — credit score
+* Geography — country of residence
+* Gender — gender
+* Age — age
+* Tenure — period of maturation for a customer’s fixed deposit (years)
+* Balance — account balance
+* NumOfProducts — number of banking products used by the customer
+* HasCrCard — customer has a credit card
+* IsActiveMember — customer’s activeness
+* EstimatedSalary — estimated salary
 
-|Project |Description	|Libraries|
-| ------ | ------ | ------ |
-|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas |
-|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years and determine which factors influence the price of a vehicle | pandas, matplotlib |
-|[Project3](https://github.com/atikhomirovs/Practicum/tree/Project3) | Project2 | pandas, ntlk |
+### Target
+* Exited — сustomer has left
+
+# Goal
+Build a ML model that will predict whether a customer will leave the bank soon.
+
+# Libraries
+pandas, sklearn
