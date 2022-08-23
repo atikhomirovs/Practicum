@@ -9,7 +9,7 @@ Data Science projects completed during Data Science bootcamp by Yandex Practicum
 |[Video Games Analysis](https://github.com/atikhomirovs/Practicum/tree/Project4) | Analyzing historical data on game sales to identify patterns that determine whether a game succeeds or not  | pandas, scipy, numpy, matplotlib |
 |[Taxi Rides Analysis](https://github.com/atikhomirovs/Practicum/tree/Project5) | Studying taxi rides data and the impact of external factors on rides | pandas, scipy, matplotlib |
 |[Mobile Plans ML Model](https://github.com/atikhomirovs/Practicum/tree/Project6) | Using machine learning algorithms to develop a model that would analyze subscribers' behavior and recommend one of the company's newer plans: Smart or Ultra. | pandas, sklearn |
-|[Project7](https://github.com/atikhomirovs/Practicum/tree/Project7) | Project7 | pandas, ntlk |
+|[Bank Customers ML Model](https://github.com/atikhomirovs/Practicum/tree/Project7) | Using machine learning algorithms to develop a model that would analyze the data on clients’ past behavior and predict whether a customer will leave the bank soon. | pandas, sklearn |
 |[Project8](https://github.com/atikhomirovs/Practicum/tree/Project8) | Project8 | pandas, ntlk |
 |[Project9](https://github.com/atikhomirovs/Practicum/tree/Project9) | Project9 | pandas, ntlk |
 |[Project10](https://github.com/atikhomirovs/Practicum/tree/Project10) | Project10 | pandas, ntlk |
