@@ -12,7 +12,7 @@ Data Science projects completed during Data Science bootcamp by Yandex Practicum
 |[Bank Customers ML Model](https://github.com/atikhomirovs/Practicum/tree/Project7) | Using machine learning algorithms to develop a model that analyzes the data on clients’ past behavior and predicts whether a customer will leave the bank soon. | pandas, sklearn |
 |[Oil Well ML Model](https://github.com/atikhomirovs/Practicum/tree/Project8) | Using machine learning algorithms to develop a model that analyzes oil well parameters in three regions and helps to select a region with the highest profit. | pandas, sklearn, numpy |
 |[Gold Recovery ML Model](https://github.com/atikhomirovs/Practicum/tree/Project9) | Using machine learning algorithms to develop a model that predicts the amount of gold recovered from gold ore. | pandas, sklearn, numpy, matplotlib |
-|[Project10](https://github.com/atikhomirovs/Practicum/tree/Project10) | Project10 | pandas, ntlk |
+|[Insurance Benefits ML Model](https://github.com/atikhomirovs/Practicum/tree/Project10) | Using machine learning algorithms to develop a model that answers several questions about customers' insurance benefits. The model uses data transformation algorithm that masks the personal data. | pandas, sklearn, numpy, seaborn |
 |[Project11](https://github.com/atikhomirovs/Practicum/tree/Project11) | Project11 | pandas, ntlk |
 |[Project12](https://github.com/atikhomirovs/Practicum/tree/Project12) | Project12 | pandas, ntlk |
 |[Project13](https://github.com/atikhomirovs/Practicum/tree/Project13) | Project13 | pandas, ntlk |
