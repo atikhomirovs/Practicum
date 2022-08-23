@@ -1,8 +1,12 @@
-# Practicum
-Data Science projects completed during Data Science bootcamp by Yandex Practicum.
+# Description of the data
+* сalls — number of calls,
+* minutes — total call duration in minutes,
+* messages — number of text messages,
+* mb_used — Internet traffic used in MB,
+* is_ultra — plan for the current month (Ultra - 1, Smart - 0).
 
-|Project |Description	|Libraries|
-| ------ | ------ | ------ |
-|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas |
-|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years and determine which factors influence the price of a vehicle | pandas, matplotlib |
-|[Project3](https://github.com/atikhomirovs/Practicum/tree/Project3) | Project2 | pandas, ntlk |
+# Goal
+Develop a model that would analyze subscribers' behavior and recommend one of the newer plans: Smart or Ultra.
+
+# Libraries
+pandas, sklearn
