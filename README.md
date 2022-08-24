@@ -3,11 +3,11 @@ Data Science projects completed during Data Science bootcamp by Yandex Practicum
 
 |Project |Description	|Libraries|
 | ------ | ------ | ------ |
-|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas |
-|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years to determine which factors influence the price of a vehicle | pandas, matplotlib |
-|[Phone Plans Analysis](https://github.com/atikhomirovs/Practicum/tree/Project3) | Finding out which of the plans brings in more revenue in order to adjust the advertising budget | pandas, scipy, numpy, matplotlib |
-|[Video Games Analysis](https://github.com/atikhomirovs/Practicum/tree/Project4) | Analyzing historical data on game sales to identify patterns that determine whether a game succeeds or not  | pandas, scipy, numpy, matplotlib |
-|[Taxi Rides Analysis](https://github.com/atikhomirovs/Practicum/tree/Project5) | Studying taxi rides data and the impact of external factors on rides | pandas, scipy, matplotlib |
+|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan. | pandas |
+|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years to determine which factors influence the price of a vehicle. | pandas, matplotlib |
+|[Phone Plans Analysis](https://github.com/atikhomirovs/Practicum/tree/Project3) | Finding out which of the plans brings in more revenue in order to adjust the advertising budget. | pandas, scipy, numpy, matplotlib |
+|[Video Games Analysis](https://github.com/atikhomirovs/Practicum/tree/Project4) | Analyzing historical data on game sales to identify patterns that determine whether a game succeeds or not.  | pandas, scipy, numpy, matplotlib |
+|[Taxi Rides Analysis](https://github.com/atikhomirovs/Practicum/tree/Project5) | Studying taxi rides data and the impact of external factors on rides. | pandas, scipy, matplotlib |
 |[Mobile Plans ML Model](https://github.com/atikhomirovs/Practicum/tree/Project6) | Using machine learning algorithms to develop a model that analyzes subscribers' behavior and recommends one of the company's newer plans: Smart or Ultra. | pandas, sklearn |
 |[Bank Customers ML Model](https://github.com/atikhomirovs/Practicum/tree/Project7) | Using machine learning algorithms to develop a model that analyzes the data on clients’ past behavior and predicts whether a customer will leave the bank soon. | pandas, sklearn |
 |[Oil Well ML Model](https://github.com/atikhomirovs/Practicum/tree/Project8) | Using machine learning algorithms to develop a model that analyzes oil well parameters in three regions and helps to select a region with the highest profit. | pandas, sklearn, numpy |
