@@ -1,5 +1,4 @@
 # Description of the data
-### Features
 * datetime - date and time
 * num_orders - number of orders
 
