@@ -15,6 +15,6 @@ Data Science projects completed during Data Science bootcamp by Yandex Practicum
 |[Insurance Benefits ML Model](https://github.com/atikhomirovs/Practicum/tree/Project10) | Using machine learning algorithms to develop a model that answers several questions about customers' insurance benefits. The model uses data transformation algorithm that masks the personal data. | pandas, sklearn, numpy, seaborn |
 |[Used Car Value ML Model](https://github.com/atikhomirovs/Practicum/tree/Project11) | Using machine learning algorithms to develop a model that determines the value of a used car. | pandas, sklearn, lightgbm, catboost |
 |[Taxi Orders ML Model](https://github.com/atikhomirovs/Practicum/tree/Project12) | Using machine learning algorithms to develop a model that predicts the number of taxi orders. | pandas, sklearn, lightgbm, numpy, matplotlib, statsmodels |
-|[Project13](https://github.com/atikhomirovs/Practicum/tree/Project13) | Using machine learning algorithms to develop a model that | pandas, ntlk |
+|[Movie Reviews ML Model](https://github.com/atikhomirovs/Practicum/tree/Project13) | Using machine learning algorithms to develop a model that automatically detects negative movie reviews. | pandas, nltk, numpy, matplotlib, seaborn, sklearn, lightgbm, re |
 |[Project14](https://github.com/atikhomirovs/Practicum/tree/Project14) | Project14 | pandas, ntlk |
 |[Project15](https://github.com/atikhomirovs/Practicum/tree/Project15) | Project15 | pandas, ntlk |
