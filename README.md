@@ -17,4 +17,4 @@ Data Science projects completed during Data Science bootcamp by Yandex Practicum
 |[Taxi Orders ML Model](https://github.com/atikhomirovs/Practicum/tree/Project12) | Using machine learning algorithms to develop a model that predicts the number of taxi orders. | pandas, sklearn, lightgbm, numpy, matplotlib, statsmodels |
 |[Movie Reviews ML Model](https://github.com/atikhomirovs/Practicum/tree/Project13) | Using machine learning algorithms to develop a model that automatically detects negative movie reviews. | pandas, nltk, numpy, matplotlib, seaborn, sklearn, lightgbm, re |
 |[Age by Photo ML Model](https://github.com/atikhomirovs/Practicum/tree/Project14) | Using machine learning algorithms to develop a model that determines a person age by photo. | pandas,  tensorflow, numpy, matplotlib, seaborn |
-|[Project15](https://github.com/atikhomirovs/Practicum/tree/Project15) | Project15 | pandas, ntlk |
+|[Leave of Customers Forecast ML Model](https://github.com/atikhomirovs/Practicum/tree/Project15) | Using machine learning algorithms to develop a model that forecasts if a client is going to leave.| pandas, matplotlib, sklearn, lightgbm, catboost |
