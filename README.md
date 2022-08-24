@@ -1,8 +1,14 @@
-# Practicum
-Data Science projects completed during Data Science bootcamp by Yandex Practicum.
+# Description of the data
+The data consists of files obtained from different sources:
+* `contract.csv` — contract information
+* `personal.csv` — the client's personal data
+* `internet.csv` — information about Internet services
+* `phone.csv` — information about telephone services
 
-|Project |Description	|Libraries|
-| ------ | ------ | ------ |
-|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas |
-|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years and determine which factors influence the price of a vehicle | pandas, matplotlib |
-|[Project3](https://github.com/atikhomirovs/Practicum/tree/Project3) | Project2 | pandas, ntlk |
+In each file, the column `customerID` contains a unique code assigned to each client.
+
+# Goal
+Build a machine learning model that forecasts if a client is going to leave.
+
+# Libraries
+pandas, matplotlib, sklearn, lightgbm, catboost
