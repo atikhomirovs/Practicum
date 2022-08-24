@@ -1,8 +1,26 @@
-# Practicum
-Data Science projects completed during Data Science bootcamp by Yandex Practicum.
+# Description of the data
+### Features
+* DateCrawled — date profile was downloaded from the database
+* VehicleType — vehicle body type
+* RegistrationYear — vehicle registration year
+* Gearbox — gearbox type
+* Power — power (hp)
+* Model — vehicle model
+* Mileage — mileage (measured in km due to dataset's regional specifics)
+* RegistrationMonth — vehicle registration month
+* FuelType — fuel type
+* Brand — vehicle brand
+* NotRepaired — vehicle repaired or not
+* DateCreated — date of profile creation
+* NumberOfPictures — number of vehicle pictures
+* PostalCode — postal code of profile owner (user)
+* LastSeen — date of the last activity of the user
 
-|Project |Description	|Libraries|
-| ------ | ------ | ------ |
-|[Borrowers' Risk of Defaulting Analysis](https://github.com/atikhomirovs/Practicum/tree/Project1) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan | pandas |
-|[Vehicle Price Analysis](https://github.com/atikhomirovs/Practicum/tree/Project2) | Studying data collected over the last few years and determine which factors influence the price of a vehicle | pandas, matplotlib |
-|[Project3](https://github.com/atikhomirovs/Practicum/tree/Project3) | Project2 | pandas, ntlk |
+### Target
+* Price — price (Euro)
+
+# Goal
+Build a machine learning model that determines the value of a used car.
+
+# Libraries
+pandas, sklearn, lightgbm, catboost
